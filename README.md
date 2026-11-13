@@ -16,6 +16,10 @@ The solution was developed using **SAP Analytics Cloud (SAC)**, covering data pr
 
 This is an independently developed portfolio project and is not an official government project.
 
+
+<img width="1916" height="969" alt="p5" src="https://github.com/user-attachments/assets/3d72f7ee-f593-4758-9f0b-306a58c0fa48" />
+
+
 ---
 
 ## Business Problem
